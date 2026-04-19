@@ -159,7 +159,8 @@ node server.js
 
 ## 📸 Demonstration
 
-*(Add your screenshots here)*
+<img width="881" height="961" alt="Screenshot 2026-03-08 192038" src="https://github.com/user-attachments/assets/86097b86-5aa3-4c7c-82ed-305ba59e7f4b" />
+
 
 ```
 images/
